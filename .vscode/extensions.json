@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "ritwickdey.liveserver",
+        "vscode-icons-team.vscode-icons",
+        "ecmel.vscode-html-css",
+        "formulahendry.auto-rename-tag",
+        "ms-vsliveshare.vsliveshare",
+        "christian-kohler.path-intellisense",
+        "zignd.html-css-class-completion",
+        "ctf0.htmlhint",
+        "mkaufman.htmlhint",
+        "jaspernorth.vscode-pigments",
+        "stylelint.vscode-stylelint"
+    ]
+}

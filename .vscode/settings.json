@@ -1,0 +1,19 @@
+{
+    "html.autoClosingTags": false,
+"editor.defaultFormatter": "vscode.html-language-features",
+"editor.formatOnSave": true,
+"workbench.editor.autoLockGroups": {
+    "terminalEditor": false
+},
+"editor.wordWrap": "on",
+"editor.autoIndent": "advanced",
+"editor.scrollPredominantAxis": false,
+"diffEditor.codeLens": false,
+"editor.minimap.autohide": false,
+"editor.minimap.enabled": false,
+"workbench.layoutControl.type": "both",
+"workbench.editor.enablePreviewFromQuickOpen": false,
+"terminal.integrated.enablePersistentSessions": false,
+"terminal.integrated.environmentChangesIndicator": "off",
+"liveServer.settings.port": 5501
+}
